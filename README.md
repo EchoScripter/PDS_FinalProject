@@ -32,7 +32,7 @@ In this project, we aim to predict **house prices** using multiple **machine lea
 
 The dataset used in this project includes various features related to properties, such as square footage, number of rooms, and location. It’s critical for training the model to make accurate predictions on unseen data.
 
-- **Dataset Link**: [Download CSV file here](link-to-csv)
+- **Dataset Link**: [Download CSV file here](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 
 ---
 
