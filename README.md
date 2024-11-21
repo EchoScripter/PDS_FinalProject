@@ -9,11 +9,6 @@
 2. [Dataset](#dataset)
 3. [Technologies Used](#technologies-used)
 4. [Project Structure](#project-structure)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Model Evaluation](#model-evaluation)
-8. [Results and Conclusion](#results-and-conclusion)
-9. [License](#license)
 
 ---
 
